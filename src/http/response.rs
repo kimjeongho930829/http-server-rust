@@ -1,5 +1,4 @@
 use super::StatusCode;
-use std::net::TcpStream;
 use std::io::{Write, Result as IoResult};
 
 #[derive(Debug)]
